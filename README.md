@@ -1,2 +1,2 @@
-# Try1
-Trying 1 new time
+# Repo for exercises form C# Programming Fundamentals
+C# Programming Fundamentals folders from homework
