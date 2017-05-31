@@ -15,7 +15,8 @@ namespace _05.Special_Numbers
             for (int i = 0; i < n ; i++)
             {
                 int sumOfDigits = 0;
-                int digits = 0;
+                int digitsOk = 0;
+                digitsOk = 8;
 
             }
 
