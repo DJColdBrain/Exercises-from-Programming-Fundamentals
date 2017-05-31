@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Elevator", "04. Elevato
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Special Numbers", "05. Special Numbers\05. Special Numbers.csproj", "{2D95DB89-46D8-44BB-9393-92940ED65C95}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Triples of Letters", "06. Triples of Letters\06. Triples of Letters.csproj", "{51FC5D90-408E-47D6-A0C2-797C5F5B8817}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{2D95DB89-46D8-44BB-9393-92940ED65C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D95DB89-46D8-44BB-9393-92940ED65C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D95DB89-46D8-44BB-9393-92940ED65C95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51FC5D90-408E-47D6-A0C2-797C5F5B8817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51FC5D90-408E-47D6-A0C2-797C5F5B8817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51FC5D90-408E-47D6-A0C2-797C5F5B8817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51FC5D90-408E-47D6-A0C2-797C5F5B8817}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
