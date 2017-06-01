@@ -10,8 +10,8 @@ namespace _02.Practice_Floating_Points
     {
         static void Main(string[] args)
         {
-            double a = double.Parse(Console.ReadLine());
-            float b = float.Parse(Console.ReadLine());
+            decimal a = decimal.Parse(Console.ReadLine());
+            double b = double.Parse(Console.ReadLine());
             decimal c = decimal.Parse(Console.ReadLine());
 
             Console.WriteLine(a);
