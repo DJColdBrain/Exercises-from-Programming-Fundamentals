@@ -11,77 +11,64 @@ namespace _12.Master_Number
         static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
-            MasterNumber(n);
-
-        }
-
-
-        //This is bad code
-        //For REFRACTURING
-
-        static void MasterNumber (int num)
-        {
-
-            for (int i = 1; i <= num; i++)
+            for (int i = 1; i <= n; i++)
             {
-
-                bool isMaster = false;
-                int master = i;
-
-                int sum = 0;
-                while (master > 0)
+                if (IsHavingEvenNum(i) && IsSumEqualSeven(i))
                 {
-                    sum += master % 10;
-                    master /= 10;
-                }
-
-                master = i;
-                if (sum % 7 ==0)
-                {
-                    while (master > 0)
+                    if (IsPolynom(i))
                     {
-                        if((master % 10) % 2 == 0)
-                        {
-                            isMaster = true;
-                            break;
-                        }
-                        else
-                        {
-                            master /= 10;
-                        }
+                        Console.WriteLine(i);
                     }
-                    master = i;
-                    if (isMaster)
-                    {
-                        string stringMaster = master.ToString();
-                        for (int g = 1; g <= master.ToString().Length/2; g++)
-                        {
-                            
-                            
-                            if (stringMaster.Remove(1, stringMaster.Length-1).CompareTo(stringMaster.Remove(0, stringMaster.Length -1)) == 0)
-                            {
-                                stringMaster = stringMaster.Remove(stringMaster.Length - 1, 1);
-                                stringMaster = stringMaster.Remove(0, 1);
-                            }
-                            else
-                            {
-                                isMaster = false;
-                                break;
-                            }
-                            
-                        }
-                    }
-
-
+                    
                 }
-                if (isMaster)
-                {
-                    Console.WriteLine(i);
-                }
-
             }
 
-
-        } 
+        }         
+        static bool IsSumEqualSeven (int num)
+        {
+            int sum = 0;
+            while (num > 0)
+            {
+                sum += num % 10;
+                num /= 10;
+            }            
+            if (sum % 7 == 0)
+            {
+                return true;
+            }else
+                return false;
+        }
+        static bool  IsHavingEvenNum (int num)
+        {
+            while (num > 0)
+            {
+                if ((num % 10) % 2 == 0)
+                {
+                    return true;
+                }
+                else
+                {
+                    num /= 10;
+                }                
+            }
+            return false;
+        }
+        static bool IsPolynom (int num)
+        {
+            string stringMaster = num.ToString();
+            for (int g = 1; g <= num.ToString().Length / 2; g++)
+            {
+                if (stringMaster.Remove(1, stringMaster.Length - 1).CompareTo(stringMaster.Remove(0, stringMaster.Length - 1)) == 0)
+                {
+                    stringMaster = stringMaster.Remove(stringMaster.Length - 1, 1);
+                    stringMaster = stringMaster.Remove(0, 1);
+                }
+                else
+                {
+                    return false;
+                }
+            }
+            return true;
+        }
     }
 }

@@ -21,7 +21,7 @@ namespace _13.Factorial
             BigInteger sum =1;
             for (BigInteger i = n; i > 0; i--)
             {
-                sum *= n;
+                sum *= i;
             }
 
             Console.WriteLine(sum);

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2D8A2FE9-7DDB-4C53-968F-C146E6FE0F5E}</ProjectGuid>
+    <ProjectGuid>{420FDF47-4E2B-4E91-95F6-01D0849C1EDD}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_14.Factorial_Trailing_Zeroes</RootNamespace>
-    <AssemblyName>_14.Factorial_Trailing_Zeroes</AssemblyName>
+    <RootNamespace>_18.Sequence_of_Commands</RootNamespace>
+    <AssemblyName>_18.Sequence_of_Commands</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -34,7 +34,6 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Numerics" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
