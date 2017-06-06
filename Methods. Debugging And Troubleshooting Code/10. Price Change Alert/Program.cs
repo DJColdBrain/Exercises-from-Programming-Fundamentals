@@ -2,6 +2,7 @@
 
 class PriceChangeAlert
 {
+   
     static void Main()
     {
         int n = int.Parse(Console.ReadLine());
@@ -13,9 +14,8 @@ class PriceChangeAlert
         for (int i = 0; i < n - 1; i++)
         {
             double c = double.Parse(Console.ReadLine());
-            double div = Proc(last, c); bool isSignificantDifference = imaliDif(div, granica);
-
-
+            double div = Proc(last, c);
+            bool isSignificantDifference = imaliDif(div, granica);
 
             string message = Get(c, last, div, isSignificantDifference);
             Console.WriteLine(message);
