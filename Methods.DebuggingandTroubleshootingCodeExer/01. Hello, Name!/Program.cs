@@ -10,6 +10,12 @@ namespace Methods.DebuggingandTroubleshootingCodeExer
     {
         static void Main(string[] args)
         {
+            String s = Console.ReadLine();
+            PrintName(s);
+        }
+        static void PrintName(string name)
+        {
+            Console.WriteLine("Hello, " + name+"!");
         }
     }
 }
