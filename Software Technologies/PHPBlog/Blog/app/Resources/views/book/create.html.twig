@@ -1,0 +1,47 @@
+{%  extends 'base.html.twig' %}
+
+{% block main %}
+    <div class="container body-content span=8 offset=2">
+        <div class="well">
+            <form class="form-horizontal" action="{{ path('book_create') }}" method="post">
+                <fieldset>
+                    <legend>New Book</legend>
+
+                    <div class="form-group">
+                        <label class="col-sm-4 control-label" for="book_name">Book Name</label>
+                        <div class="col-sm-4 ">
+                            <input type="text" class="form-control" id="book_name" placeholder="Book Name"
+                                   name="book[name]">
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="col-sm-4 control-label" for="book_author">Author</label>
+                        <div class="col-sm-6">
+                        <input class="form-control" rows="6" id="book_author"
+                                  name="book[author]">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-4 control-label" for="book_ibm">IBM</label>
+                        <div class="col-sm-6">
+                            <input class="form-control" rows="6" id="book_ibm"
+                                   name="book[ibm]">
+                        </div>
+                    </div>
+
+                    {{ form_row(form._token) }}
+
+                    <div class="form-group">
+                        <div class="col-sm-4 col-sm-offset-4">
+                            <a class="btn btn-default" href="{{ path('blog_index') }}">Cancel</a>
+                            <button type="submit" class="btn btn-primary">Submit</button>
+                        </div>
+                    </div>
+                </fieldset>
+            </form>
+        </div>
+    </div>
+
+
+{% endblock %}
