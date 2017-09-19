@@ -1,0 +1,142 @@
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\obj\Debug\TodoList.csprojResolveAssemblyReference.cache
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\ApplicationInsights.config
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\roslyn\csc.exe
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\roslyn\csc.exe.config
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\roslyn\csc.rsp
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\roslyn\csi.exe
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\roslyn\csi.rsp
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\roslyn\System.AppContext.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\roslyn\System.Collections.Immutable.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\roslyn\System.IO.FileSystem.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\roslyn\System.Reflection.Metadata.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\roslyn\vbc.exe
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\roslyn\vbc.exe.config
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\roslyn\vbc.rsp
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\roslyn\VBCSCompiler.exe
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\roslyn\VBCSCompiler.exe.config
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\TodoList.dll.config
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\TodoList.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\TodoList.pdb
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\Antlr3.Runtime.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\EntityFramework.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\EntityFramework.SqlServer.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\Microsoft.AI.Agent.Intercept.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\Microsoft.AI.DependencyCollector.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\Microsoft.AI.Web.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\Microsoft.AI.WindowsServer.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\Microsoft.ApplicationInsights.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\Microsoft.Web.Infrastructure.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\Newtonsoft.Json.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\System.Web.Helpers.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\System.Web.Mvc.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\System.Web.Optimization.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\System.Web.Razor.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\System.Web.WebPages.Deployment.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\System.Web.WebPages.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\System.Web.WebPages.Razor.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\WebGrease.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\EntityFramework.xml
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\EntityFramework.SqlServer.xml
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\System.Web.Helpers.xml
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\System.Web.Mvc.xml
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\System.Web.Optimization.xml
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\System.Web.Razor.xml
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\System.Web.WebPages.xml
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\System.Web.WebPages.Deployment.xml
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\System.Web.WebPages.Razor.xml
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\Antlr3.Runtime.pdb
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\Newtonsoft.Json.xml
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\Microsoft.ApplicationInsights.xml
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\Microsoft.AI.DependencyCollector.xml
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\Microsoft.AI.WindowsServer.xml
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\bin\Microsoft.AI.Web.xml
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\obj\Debug\TodoList.dll
+D:\SoftUni\Software technologies Exam preparations TODO List\C# Skeleton\TodoList\obj\Debug\TodoList.pdb
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\obj\Debug\TodoList.csprojResolveAssemblyReference.cache
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\obj\Debug\TodoList.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\obj\Debug\TodoList.pdb
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\ApplicationInsights.config
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\roslyn\csc.exe
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\roslyn\csc.exe.config
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\roslyn\csc.rsp
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\roslyn\csi.exe
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\roslyn\csi.rsp
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\roslyn\System.AppContext.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\roslyn\System.Collections.Immutable.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\roslyn\System.IO.FileSystem.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\roslyn\System.Reflection.Metadata.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\roslyn\vbc.exe
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\roslyn\vbc.exe.config
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\roslyn\vbc.rsp
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\roslyn\VBCSCompiler.exe
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\roslyn\VBCSCompiler.exe.config
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\TodoList.dll.config
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\TodoList.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\TodoList.pdb
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\Antlr3.Runtime.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\EntityFramework.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\EntityFramework.SqlServer.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\Microsoft.AI.Agent.Intercept.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\Microsoft.AI.DependencyCollector.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\Microsoft.AI.Web.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\Microsoft.AI.WindowsServer.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\Microsoft.ApplicationInsights.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\Microsoft.Web.Infrastructure.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\Newtonsoft.Json.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\System.Web.Helpers.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\System.Web.Mvc.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\System.Web.Optimization.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\System.Web.Razor.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\System.Web.WebPages.Deployment.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\System.Web.WebPages.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\System.Web.WebPages.Razor.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\WebGrease.dll
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\EntityFramework.xml
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\EntityFramework.SqlServer.xml
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\System.Web.Helpers.xml
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\System.Web.Mvc.xml
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\System.Web.Optimization.xml
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\System.Web.Razor.xml
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\System.Web.WebPages.xml
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\System.Web.WebPages.Deployment.xml
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\System.Web.WebPages.Razor.xml
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\Antlr3.Runtime.pdb
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\Newtonsoft.Json.xml
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\Microsoft.ApplicationInsights.xml
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\Microsoft.AI.DependencyCollector.xml
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\Microsoft.AI.WindowsServer.xml
+D:\SoftUni\Software technologies Exam prep I TODO List\C# Skeleton\TodoList\bin\Microsoft.AI.Web.xml
