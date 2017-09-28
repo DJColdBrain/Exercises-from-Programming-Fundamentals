@@ -4,18 +4,23 @@ import java.io.InputStreamReader;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class ExtractTags {
+public class ValidUsernames {
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder output = new StringBuilder("");
 
-        Pattern pattern = Pattern.compile("<.+?>");
+        Pattern pattern = Pattern.compile("^[A-Za-z0-9-_]{3,16}$");
 
         String input;
         while (!(input = reader.readLine()).equals("END")) {
             Matcher matcher = pattern.matcher(input);
-            while (matcher.find())
-                output.append(matcher.group()).append(System.lineSeparator());
+
+            if (matcher.matches())
+                output.append("valid");
+            else
+                output.append("invalid");
+
+            output.append(System.lineSeparator());
         }
 
         System.out.println(output);

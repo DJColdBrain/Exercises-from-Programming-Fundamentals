@@ -15,21 +15,20 @@ public class ParseURL {
             if (url.contains("/") && !url.contains("://")){
                 server = url.substring(0, url.indexOf("/"));
                 url = url.replace(server+"/", "");
-                if (url.length()>0){
+
                     recource = url;
 
                     System.out.println("Protocol = " + protocol);
                     System.out.println("Server = " + server);
                     System.out.println("Resources = " + recource);
 
-                }else{
-                    System.out.println("Invalid URL");
-                }
+
             }else{
                 System.out.println("Invalid URL");
             }
         }else{
             System.out.println("Invalid URL");
         }
+
     }
 }
