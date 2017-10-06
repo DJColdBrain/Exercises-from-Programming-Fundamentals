@@ -5,7 +5,7 @@ public class OutputWriter {
         System.out.print(message);
     }
     public void writeMessageOnNewLine(String message){
-
+        System.out.println(message);
     }
     public void writeEmptyLine(){
         System.out.println();
