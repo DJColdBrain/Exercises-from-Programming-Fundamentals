@@ -1,12 +1,13 @@
 package com;
 
 
+import com.IO.IOManager;
+import com.IO.InputReader;
+import com.commandInterpreter.CommandInterpreter;
+
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
 
-        IOManager ioManager = new IOManager();
-        String path = "C:";
-
-        ioManager.traverseDirectory(path);
+        InputReader.readCommands();
     }
 }
