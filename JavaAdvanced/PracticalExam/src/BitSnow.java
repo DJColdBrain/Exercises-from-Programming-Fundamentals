@@ -25,12 +25,11 @@ public class BitSnow {
         }
 
         StringBuilder sb = new StringBuilder();
-        for (int i = 0; i < array.length; i++) {
-            sb.append(array[i]);
-            if (i < array.length-1){
-               sb.append(", ");
-            }
+        for (int i = 0; i < array.length-1; i++) {
+            sb.append(array[i] + ", ");
+
         }
+        sb.append(array[array.length-1]);
         //sb.replace(sb.length()-2, sb.length(), "");
         System.out.print(sb);
 

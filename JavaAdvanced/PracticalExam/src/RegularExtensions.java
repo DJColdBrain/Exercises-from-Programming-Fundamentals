@@ -19,12 +19,12 @@ public class RegularExtensions {
             if (ungonePattern .equals( "Print")){
                 break;
             }
-            String[] pattern = ungonePattern.split("%");
+
             if (!ungonePattern.contains("%")){
-                while (text.indexOf(pattern[0]) != -1){
-                    int index = text.indexOf(pattern[0]);
-                    String reversedText =new StringBuilder(pattern[0]).reverse().toString();
-                    text = text.replace(index, index + pattern[0].length(),reversedText );
+                while (text.indexOf(ungonePattern) != -1){
+                    int index = text.indexOf(ungonePattern);
+                    String reversedText =new StringBuilder(ungonePattern).reverse().toString();
+                    text = text.replace(index, index + ungonePattern.length(),reversedText );
                 }
             }else{
                 String pattern1 = ungonePattern.replaceAll("%", "[\\\\S]*") ;
