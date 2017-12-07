@@ -1,6 +1,6 @@
 package p04_recharge;
 
-public class Employee extends Worker implements Sleeper {
+public class Employee extends Worker {
 
     public Employee(String id) {
         super(id);

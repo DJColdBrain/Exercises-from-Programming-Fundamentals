@@ -1,6 +1,6 @@
 package p04_recharge;
 
-public class Robot extends Worker implements Rechargeable {
+public class Robot extends Worker {
 
     private int capacity;
     private int currentPower;
